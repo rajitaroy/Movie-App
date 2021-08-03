@@ -1,4 +1,4 @@
-To run the code:  
+## Steps to run:  
 1. `cd Movie-App`  
 2. Goto `https://www.themoviedb.org/` and create an account.  
 3. Goto `https://www.themoviedb.org/settings/api` and request an API. Follow the needful steps.  
